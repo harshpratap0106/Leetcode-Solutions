@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0704-binary-search](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +39,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 <!---LeetCode Topics End-->
