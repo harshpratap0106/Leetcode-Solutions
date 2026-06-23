@@ -60,4 +60,20 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
