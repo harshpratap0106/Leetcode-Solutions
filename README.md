@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -45,4 +46,8 @@
 | ------- | ------- |
 | [0704-binary-search](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
