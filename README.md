@@ -63,6 +63,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -74,6 +75,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -94,6 +96,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -102,4 +105,8 @@
 | [0226-invert-binary-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
