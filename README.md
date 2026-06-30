@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0704-binary-search](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -18,6 +19,7 @@
 | [0049-group-anagrams](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -32,6 +34,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -48,6 +51,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -127,4 +131,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
