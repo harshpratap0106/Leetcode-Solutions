@@ -48,6 +48,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -154,4 +155,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
