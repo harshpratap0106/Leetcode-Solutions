@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -36,6 +37,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -45,6 +47,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0392-is-subsequence](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
