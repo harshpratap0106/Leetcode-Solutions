@@ -17,6 +17,7 @@
 | [0704-binary-search](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@
 | [0242-valid-anagram](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +122,7 @@
 | [0112-path-sum](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,4 +178,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 <!---LeetCode Topics End-->
