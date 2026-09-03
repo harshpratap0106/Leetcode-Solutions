@@ -19,6 +19,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +177,7 @@
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
