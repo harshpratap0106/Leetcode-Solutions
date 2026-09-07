@@ -39,6 +39,7 @@
 | [0242-valid-anagram](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
