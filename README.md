@@ -179,6 +179,7 @@
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [3870-count-commas-in-range](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Combinatorics
