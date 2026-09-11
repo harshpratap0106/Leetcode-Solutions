@@ -22,7 +22,7 @@ class Solution {
                     for (int d = 0; d <= 9; d++) {
                         if (used[d] > freq[d]) {
                             possible = false;
-                        
+                            break;
                         }
                     }
                     if (possible)
