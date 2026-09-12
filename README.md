@@ -17,6 +17,7 @@
 | [0704-binary-search](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -52,6 +53,7 @@
 | [0242-valid-anagram](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +70,7 @@
 | [0198-house-robber](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +82,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
