@@ -192,6 +192,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0836-rectangle-overlap](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [3870-count-commas-in-range](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -213,4 +214,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
