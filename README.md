@@ -73,6 +73,7 @@
 | [0198-house-robber](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Counting
@@ -190,12 +191,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0836-rectangle-overlap](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3870-count-commas-in-range](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -204,6 +207,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
