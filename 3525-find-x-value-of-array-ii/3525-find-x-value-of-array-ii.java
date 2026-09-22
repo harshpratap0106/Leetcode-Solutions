@@ -1,114 +1,128 @@
 class Solution {
-    static class Node {
-        int prod;
-        int[] cnt;
-
-        Node(int k) {
-            cnt = new int[k];
-        }
-    }
-
     int n, k;
-    int[] nums;
-    Node[] tree;
+    int[] nums, prod;
+    int[][] cnt;
 
     public int[] resultArray(int[] nums, int k, int[][] queries) {
-        this.nums = nums;
+        this.n = nums.length;
         this.k = k;
-        n = nums.length;
-        tree = new Node[4*n];
+        this.nums = nums;
 
-        build(1, 0, n-1);
+        prod = new int[4 * n];
+        cnt = new int[4 * n][k];
+
+        build(1, 0, n - 1);
 
         int[] ans = new int[queries.length];
 
-        for (int q=0; q < queries.length; q++) {
-            int index = queries[q][0];
-            int value = queries[q][1];
-            int start = queries[q][2];
-            int x = queries[q][3];
+        for (int q = 0; q < queries.length; q++) {
+            int idx = queries[q][0];
+            nums[idx] = queries[q][1];
 
-            nums[index] = value;
-            update(1, 0, n-1, index);
+            update(1, 0, n-1, idx);
 
-            Node res = query(1, 0, n-1, start, n-1);
-            ans[q] = res.cnt[x];
+            int[] res = query(1, 0, n - 1, queries[q][2], n - 1);
+            ans[q] = res[queries[q][3]];
         }
+
         return ans;
     }
 
     void build(int node, int l, int r) {
         if (l == r) {
-            tree[node] = new Node(k);
             int rem = nums[l] % k;
-            tree[node].prod = rem;
-            tree[node].cnt[rem] = 1;
+            prod[node] = rem;
+            cnt[node][rem] = 1;
             return;
         }
-        int mid = (l+r)/2;
 
-        build(node*2, l, mid);
-        build(node*2+1, mid+1, r);
-
-        tree[node] = merge(tree[node*2], tree[node*2 +1]);
+        int mid = (l + r) >>> 1;
+        build(node << 1, l, mid);
+        build(node << 1 | 1, mid + 1, r);
+        merge(node, node << 1, node << 1 | 1);
     }
 
     void update(int node, int l, int r, int idx) {
-        if (l==r) {
-            tree[node] = new Node(k);
-            int rem = nums[l] % k;
-            tree[node].prod = rem;
-            tree[node].cnt[rem] = 1;
+        if (l == r) {
+            int rem = nums[idx] % k;
+            prod[node] = rem;
+
+            for (int i = 0; i < k; i++)
+                cnt[node][i] = 0;
+
+            cnt[node][rem] = 1;
             return;
         }
 
-        int mid = (l + r) / 2;
+        int mid = (l + r) >>> 1;
 
-        if (idx <= mid) {
-            update(node * 2, l, mid, idx);
-        } else {
-            update(node * 2 + 1, mid + 1, r, idx);
-        }
+        if (idx <= mid)
+            update(node << 1, l, mid, idx);
+        else
+            update(node << 1 | 1, mid + 1, r, idx);
 
-        tree[node] = merge(tree[node * 2], tree[node * 2 + 1]);
+        merge(node, node << 1, node << 1 | 1);
     }
 
-    Node query(int node, int l, int r, int ql, int qr) {
-        if (ql <= l && r <= qr) {
-            return tree[node];
+    void merge(int node, int left, int right) {
+        int p = prod[left];
+        prod[node] = (int)((long) p * prod[right] % k);
+
+        for (int i = 0; i < k; i++)
+            cnt[node][i] = cnt[left][i];
+
+        for (int i = 0; i < k; i++) {
+            if (cnt[right][i] != 0) {
+                int rem = (int)((long) p * i % k);
+                cnt[node][rem] += cnt[right][i];
+            }
         }
-
-        int mid = (l + r) / 2;
-
-        if (qr <= mid) {
-            return query(node * 2, l, mid, ql, qr);
-        }
-
-        if (ql > mid) {
-            return query(node * 2 + 1, mid + 1, r, ql, qr);
-        }
-
-        Node left = query(node*2, l, mid, ql, qr);
-        Node right = query(node*2+1, mid + 1, r, ql, qr);
-
-        return merge(left, right);
     }
 
-    Node merge(Node a, Node b) {
-        Node res = new Node(k);
+    int[] query(int node, int l, int r, int ql, int qr) {
+        if (ql <= l && r <= qr)
+            return cnt[node];
 
-        res.prod = (int)((long)a.prod * b.prod % k);
+        int mid = (l + r) >>> 1;
 
-        for (int r=0; r < k; r++) {
-            res.cnt[r] += a.cnt[r];
+        if (qr <= mid)
+            return query(node << 1, l, mid, ql, qr);
+
+        if (ql > mid)
+            return query(node << 1 | 1, mid + 1, r, ql, qr);
+
+        int[] left = query(node << 1, l, mid, ql, qr);
+        int[] right = query(node << 1 | 1, mid + 1, r, ql, qr);
+
+        int leftProd = getProduct(node << 1, l, mid, ql, qr);
+
+        int[] res = new int[k];
+
+        for (int i = 0; i < k; i++)
+            res[i] = left[i];
+
+        for (int i = 0; i < k; i++) {
+            int rem = (int)((long) leftProd * i % k);
+            res[rem] += right[i];
         }
 
-        for (int i=0; i < k; i++) {
-            if (b.cnt[i]==0) continue;
-
-            int rem = (int)((long)a.prod * i%k);
-            res.cnt[rem] += b.cnt[i];
-        }
         return res;
+    }
+
+    int getProduct(int node, int l, int r, int ql, int qr) {
+        if (ql <= l && r <= qr)
+            return prod[node];
+
+        int mid = (l + r) >>> 1;
+
+        if (qr <= mid)
+            return getProduct(node << 1, l, mid, ql, qr);
+
+        if (ql > mid)
+            return getProduct(node << 1 | 1, mid + 1, r, ql, qr);
+
+        return (int)((long)
+                getProduct(node << 1, l, mid, ql, qr) *
+                getProduct(node << 1 | 1, mid + 1, r, ql, qr) % k);
     }
 }
