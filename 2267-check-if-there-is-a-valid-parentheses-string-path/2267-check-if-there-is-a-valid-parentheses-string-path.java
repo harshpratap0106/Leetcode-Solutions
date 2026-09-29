@@ -1,0 +1,35 @@
+class Solution {
+    public boolean hasValidPath(char[][] grid) {
+        int m= grid.length;
+        int n= grid[0].length;
+
+        if ((m+n-1)%2 != 0)
+            return false;
+
+        boolean[][][] dp = new boolean[m][n][m+n];
+
+        dp[0][0][grid[0][0] == '(' ? 1 : 0] = true;
+
+        for (int i=0; i<m; i++) {
+            for (int j=0; j<n; j++) {
+                if (i==0 && j==0)
+                    continue;
+
+                int value = grid[i][j] == '(' ? 1 : -1;
+
+                for (int bal = 0; bal<= m+n-2; bal++) {
+                    int prevBal = bal-value;
+
+                    if (prevBal<0)
+                        continue;
+
+                    if ((i > 0 && dp[i - 1][j][prevBal]) ||
+                        (j > 0 && dp[i][j - 1][prevBal])) {
+                        dp[i][j][bal] = true;
+                    }
+                }
+            }
+        }
+        return dp[m - 1][n - 1][0];
+    }
+}
