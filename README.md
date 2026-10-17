@@ -32,6 +32,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -55,6 +56,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -94,6 +96,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
