@@ -85,6 +85,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/harshpratap0106/Leetcode-Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
